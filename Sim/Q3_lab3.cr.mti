@@ -1,0 +1,17 @@
+{C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/prior_enc.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/prior_enc.vhd}
+QuestaSim vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity enco_p
+-- Compiling architecture arch_enco of enco_p
+
+} {} {}} {C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/tb_priority.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/tb_priority.vhd}
+QuestaSim vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_p_encoder
+-- Compiling architecture arc_tb of tb_p_encoder
+
+} {} {}}

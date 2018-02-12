@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Admin\Desktop\VHDL\Lab Work\150240133004\Lab 3 B\Q2\Sim
+Eenco_p
+Z0 w1428036388
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\Admin\Desktop\VHDL\Lab Work\150240133004\Lab 3 B\Q3\Sim
+Z4 8C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/prior_enc.vhd
+Z5 FC:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/prior_enc.vhd
+l0
+L4
+VlY5;:nD::L>Pc2L:>P>fD1
+Z6 OE;C;10.1d;51
+32
+Z7 !s108 1428822356.789000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/prior_enc.vhd|
+Z9 !s107 C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/prior_enc.vhd|
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1
+!s100 gQdYWz^b:7Y78Y@zen9NP0
+!i10b 1
+Aarch_enco
+R1
+R2
+DEx4 work 6 enco_p 0 22 lY5;:nD::L>Pc2L:>P>fD1
+32
+l12
+L9
+VJ[^PQiQWm8Z9j2A7WO7=C0
+R6
+R7
+R8
+R9
+R10
+R11
+!s100 5E6XLW347A>c6>gWDdH080
+!i10b 1
+Etb_p_encoder
+Z12 w1428820054
+R1
+R2
+R3
+Z13 8C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/tb_priority.vhd
+Z14 FC:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/tb_priority.vhd
+l0
+L4
+VP=nWm2AgO22KHdY7f`PC>3
+R6
+32
+Z15 !s108 1428822357.226000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/tb_priority.vhd|
+Z17 !s107 C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q3/Src/tb_priority.vhd|
+R10
+R11
+!s100 dn0W]eem?UTQXZD7Dco_Y0
+!i10b 1
+Aarc_tb
+R1
+R2
+DEx4 work 12 tb_p_encoder 0 22 P=nWm2AgO22KHdY7f`PC>3
+32
+l16
+L7
+V86;`KDhWnf8ZAoUXLA0iM2
+R6
+R15
+R16
+R17
+R10
+R11
+!s100 gn637J?KMaSM`a=@X8IoA2
+!i10b 1
